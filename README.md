@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dexwert85
 - 👀 I’m interested in math, physics and anything about computers
-- 🌱 I’m currently learning how to make my own gamengine
+- 🌱 I’m currently learning how to make my own game engine
